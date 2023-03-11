@@ -1,0 +1,21 @@
+Uses Python 3.7
+
+Install Gym Retro
+pip install gym-retro
+https://retro.readthedocs.io/en/latest/getting_started.html
+
+Install Gym version 0.21.0
+pip install gym==0.21.0
+
+Install ImportLib Metadata 4.8.1
+pip install importlib-metadata==4.8.1
+
+Install OpenCV
+pip install opencv-python
+
+Install Neat
+pip install neat-python
+
+Import the ROM to your Gym Retro
+    python -m retro.import <completed-folder-rom>
+Example: python -m retro.import "C:\Users\Erick\Desktop\Super Mario Brother\rom"
