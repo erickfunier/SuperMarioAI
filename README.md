@@ -10,7 +10,9 @@
 This code contains a Player created with Machine Learning and Neural Network who can play the state YoshiIsland2 from Super Mario World - SNES.
 </p>
 <p>
-The neat takes just one generation of genoma, with 150 genomas. The winner from Gen 1 was the id 68.
+  YouTube video from the winner genoma during training: https://youtu.be/zrWIRNy16BI
+<p>
+The neat takes three generations of genomas, with 150 genomas. The winner from Gen 3 was the id 377.
 </p>
 <p>
 The folder train-codes contains all saves from neat, but you can train changing the parameters to improve the results.
